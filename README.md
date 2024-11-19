@@ -283,7 +283,8 @@ int main(int argc, char **argv)
 ### FLOAT
 ![image](https://github.com/user-attachments/assets/425d80ba-30e2-4280-82b5-f853719c1627)
 ### INT
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/000259e2-c769-482d-b866-291f33b75624)
+
 
 
 
